@@ -1,0 +1,6 @@
+
+
+ssh -J nsiqueira@az1-mgmt-p-bt.ad.intelie.com nsiqueira@10.50.15.8 -L 0:8000:0:8000
+
+localhost:8000
+
